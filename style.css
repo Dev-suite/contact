@@ -1,0 +1,111 @@
+nav{
+    background-color: #f0e8e5 !important;
+}
+
+main{
+    margin-top: 60px;
+    height: 120vh;
+}
+
+.content{
+    margin-left: 60px;
+}
+
+iframe{
+    margin-top: 110px;
+}
+
+.na{
+    background-color: #ffe6de;
+}
+
+h4{
+    text-transform: uppercase;
+    font-size: 12px;
+    color: rgb(155, 143, 143);
+    margin-bottom: 20px;
+}
+
+h2{
+    color: #1f6b78;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.last{
+    margin-left: 130px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.pho{
+    margin-left: 165px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+
+
+.first{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.test{
+    width: 190px;
+    height: 35px;
+}
+input{
+    border: 0.3px solid #efeef4;
+    outline: none;
+}
+.testi{
+    width: 190px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+.text{
+    width: 190px;
+    height: 35px;
+    margin-left: 10px;
+}
+
+
+
+.first, .last{
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+textarea{
+    border: 0.3px solid #efeef4;
+    outline: none;
+}
+
+.last span, .first span, .pho span{
+    color: crimson;
+    
+}
+
+.check{
+    color: #1f6b78;
+}
+
+.spa{
+    margin-left: 20px;
+}
+
+.bo{
+    width: 390px;
+    margin-top: 40px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: #ffa583;
+}
